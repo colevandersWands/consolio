@@ -1,5 +1,5 @@
 let my_name = 'evan'
-let my_hobbies = ['biking', 'teaching', 'going to movies']
+let my_hobbies = ['roads', 'walk', 'west']
 
 function draw_portfolio() {
   console.md(`hi there, my name is ${my_name}`);
