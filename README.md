@@ -1,4 +1,4 @@
-# main markdown portfolio
+# my markdown portfolio
 
+things about me
 
-[link to consolio](./consolio.html)
